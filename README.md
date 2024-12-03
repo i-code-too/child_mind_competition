@@ -1,0 +1,1 @@
+This project is based on the Child Mind Institute - Detect Problematic Internet Usage Kaggle competition. (https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/overview)
